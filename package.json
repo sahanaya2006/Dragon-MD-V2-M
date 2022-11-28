@@ -23,7 +23,7 @@
  "author": "vihanga-yt",
  "license": "MIT",
  "dependencies": {
-  "@adiwajshing/baileys": "git+https://github.com/vihangayt0/Baileys.git",
+  "@adiwajshing/baileys": "git+https://github.com/techwithamee1/Baileys.git",
     "@adiwajshing/keyed-db": "^0.2.4",
      "acrcloud": "^1.4.0",
     "simple-git": ">=3.5.0",
