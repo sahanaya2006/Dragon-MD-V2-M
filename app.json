@@ -26,6 +26,14 @@
     "required" : true,
   "value" : "true"
     },
+    "HEROKU_API_KEY": {
+    "description": "Put HEROKU API KEY",
+     "required" :true
+    },
+  "HEROKU_APP_NAME": {
+    "description": "Put HEROKU APP NAME same as above.",
+     "required" :true
+    },
  "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@AmiyaProgrammer/Dragon-MD-V3-QR?output%20only=1&lite=1#index.js ",
        "required" : true,
